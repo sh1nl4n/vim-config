@@ -2,6 +2,23 @@
 
 --
 
+### Theme
+
+- Theme - molokai
+- Font - monospace
+
+### Tree file
+
+```
+.vim/
+├── autoload/
+    └── plug.vim
+├── backup/
+├── plugged/
+├── colors/
+    └── molokai.vim
+```
+
 ### Install
 
 ```bash
