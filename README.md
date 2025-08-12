@@ -1,6 +1,5 @@
 # vim-config
 
---
 
 ### Theme
 
